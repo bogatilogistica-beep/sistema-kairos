@@ -1,0 +1,24 @@
+{
+  "generadoEn": "2026-09-09T21:44:51.422Z",
+  "coordenadasNoParseables": [
+    "CAÑR AZOGUES AV. 10 DE AGOSTO"
+  ],
+  "coordenadasCorregidasPorSigno": [
+    "COTX LA MANA",
+    "COTX LATACUNGA AV. 2 DE MAYO (verificación planta Ambato)",
+    "COTX LATACUNGA SUR AV. QUIJANO (verificación planta Ambato)",
+    "COTX SALCEDO (verificación planta Ambato)",
+    "COTX SAQUISILI (verificación planta Ambato)"
+  ],
+  "pdvSinRutaAsignada": [
+    "COTX LATACUNGA SUR AV. QUIJANO",
+    "SUCU LAGO AGRIO AV. VENEZUELA",
+    "AZUY PAUTE"
+  ],
+  "pdvEnRutasSinCoordenada": [],
+  "rutasNoReconocidasEnHistorico": [
+    "CUENCA-LOJA",
+    "GUAYAS-PLAYAS",
+    "GYE"
+  ]
+}

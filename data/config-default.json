@@ -1,0 +1,35 @@
+{
+  "capacidadCamionKg": 3500,
+  "numeroCamionesDisponibles": 5,
+  "horasDisponiblesPorCamionSemana": 55,
+  "radioMaximoViajeKm": 220,
+  "horaAperturaGeneral": "06:00",
+  "horaMasTempranoCarga": "01:00",
+  "horaMasTardeCarga": "16:00",
+  "duracionCargaMin": 90,
+  "factorCircuidadVial": 1.3,
+  "velocidadPromedioKmh": 45,
+  "minutosPorParada": 15,
+  "costoFormula": {
+    "alpha": 22.72,
+    "beta": 0.0529,
+    "gamma": 0.4059
+  },
+  "pesoAsignacionPct": 0.5,
+  "depot": {
+    "lat": -1.1946871,
+    "lon": -78.5936726
+  },
+  "modoAgrupamiento": "ruta",
+  "consolidarDespachos": true,
+  "separacionMaximaKm": 180,
+  "llenadoObjetivoPct": 70,
+  "horaFinEntregas": "20:00",
+  "minimosCarga": {
+    "heladoTachos": 15,
+    "litrosPorTachoHelado": 12,
+    "quesoUnidades": 12,
+    "kgPorUnidadQueso": 1,
+    "cremaLitros": 10
+  }
+}

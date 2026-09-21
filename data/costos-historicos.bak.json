@@ -1,0 +1,119 @@
+{
+  "porRuta": {
+    "QUITO": {
+      "avgKg": 1783,
+      "avgCosto": 250,
+      "numViajes": 21,
+      "costoReferencia": 250
+    },
+    "GUAYAS": {
+      "avgKg": 2385.7,
+      "avgCosto": 401.06,
+      "numViajes": 33,
+      "costoReferencia": 400
+    },
+    "MACAS-PUYO": {
+      "avgKg": 580.3,
+      "avgCosto": 237.65,
+      "numViajes": 17,
+      "costoReferencia": 240
+    },
+    "IMBABURA": {
+      "avgKg": 1405.4,
+      "avgCosto": 325.79,
+      "numViajes": 14,
+      "costoReferencia": 330
+    },
+    "RIOBAMBA": {
+      "avgKg": 1096.5,
+      "avgCosto": 125,
+      "numViajes": 15,
+      "costoReferencia": 125
+    },
+    "BOLGY": {
+      "avgKg": 2005.8,
+      "avgCosto": 475.88,
+      "numViajes": 17,
+      "costoReferencia": 500
+    },
+    "MANABI": {
+      "avgKg": 1149.5,
+      "avgCosto": 410.56,
+      "numViajes": 18,
+      "costoReferencia": 410
+    },
+    "CUENCA": {
+      "avgKg": 2190.1,
+      "avgCosto": 431.88,
+      "numViajes": 16,
+      "costoReferencia": 450
+    },
+    "CUENCA-LOJA": {
+      "avgKg": 2835.8,
+      "avgCosto": 900,
+      "numViajes": 2,
+      "costoReferencia": null
+    },
+    "LA MANA": {
+      "avgKg": 1317.9,
+      "avgCosto": 410,
+      "numViajes": 17,
+      "costoReferencia": 410
+    },
+    "AMBATO": {
+      "avgKg": 1637,
+      "avgCosto": 183.35,
+      "numViajes": 17,
+      "costoReferencia": 160
+    },
+    "PLAYAS": {
+      "avgKg": 1367.6,
+      "avgCosto": 493.75,
+      "numViajes": 16,
+      "costoReferencia": 450
+    },
+    "ORIENTE": {
+      "avgKg": 1770.8,
+      "avgCosto": 542.35,
+      "numViajes": 17,
+      "costoReferencia": 580
+    },
+    "MACHALA": {
+      "avgKg": 2502.6,
+      "avgCosto": 578.67,
+      "numViajes": 15,
+      "costoReferencia": 580
+    },
+    "GUAYAS-PLAYAS": {
+      "avgKg": 2927.8,
+      "avgCosto": 780,
+      "numViajes": 1,
+      "costoReferencia": null
+    },
+    "LOJA": {
+      "avgKg": 1664.1,
+      "avgCosto": 650.67,
+      "numViajes": 15,
+      "costoReferencia": 660
+    },
+    "ESMERALDAS": {
+      "avgKg": 1663.4,
+      "avgCosto": 394.29,
+      "numViajes": 7,
+      "costoReferencia": 420
+    },
+    "GYE": {
+      "avgKg": 2614.4,
+      "avgCosto": 500,
+      "numViajes": 1,
+      "costoReferencia": null
+    }
+  },
+  "regresion": {
+    "alpha": 10.84,
+    "beta": 0.05,
+    "gamma": 0.524,
+    "r2": 0.807,
+    "muestras": 255
+  }
+}

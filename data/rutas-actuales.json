@@ -1,0 +1,255 @@
+{
+  "CUE": {
+    "provincia": "AZUAY",
+    "pdvIds": [
+      "AZUY CUENCA 9 DE OCTUBRE",
+      "AZUY CUENCA AMERICAS",
+      "AZUY CUENCA CALLE LARGA",
+      "AZUY CUENCA DON BOSCO",
+      "AZUY CUENCA REMIGIO CRESPO",
+      "AZUY CUENCA RICAURTE",
+      "AZUY SIGSIG",
+      "AZUY CUENCA AV. SIMON BOLIVAR",
+      "AZUY CUENCA TOTORACOCHA",
+      "AZUY CUENCA UNCOVIA",
+      "AZUY GUALACEO",
+      "CAÑR AZOGUES AV. 10 DE AGOSTO",
+      "CAÑR AZOGUES PARQUE DEL MIGRANTE",
+      "CAÑR BIBLIAN",
+      "CAÑR CAÑAR"
+    ],
+    "distanciaEstimadaKm": 590.4
+  },
+  "BOLGY": {
+    "provincia": "BOLIVAR",
+    "pdvIds": [
+      "BOLI GUARANDA PARQUE CENTRAL",
+      "GUAY JUJAN",
+      "GUAY MILAGRO AV. JUAN MONTALVO",
+      "GUAY MILAGRO LOS CHIRIJOS",
+      "GUAY MILAGRO SUR AV. CRISTOBAL COLON",
+      "GUAY SALITRE",
+      "GUAY SAMBORONDON",
+      "LRIO BABAHOYO AV 5. DE JUNIO",
+      "LRIO BABAHOYO SHOPPING",
+      "LRIO MONTALVO",
+      "GUAY PEDRO CARBO",
+      "GUAY SANTA LUCIA"
+    ],
+    "distanciaEstimadaKm": 607.9
+  },
+  "RBB": {
+    "provincia": "CHIMBORAZO",
+    "pdvIds": [
+      "CHIM CAJABAMBA",
+      "CHIM GUANO",
+      "CHIM RIOBAMBA CENTRO AV. 10 DE AGOSTO",
+      "CHIM RIOBAMBA MATRIZ",
+      "CHIM RIOBAMBA NORTE AV. LIZARZABURO",
+      "CHIM RIOBAMBA SUR AV. JUAN FELIX",
+      "CHIM RIOBAMBA TERMINAL",
+      "CHIM RIOBAMBA LA VASIJA"
+    ],
+    "distanciaEstimadaKm": 172.4
+  },
+  "MACHLA": {
+    "provincia": "CHIMBORAZO",
+    "pdvIds": [
+      "CHIM CUMANDA",
+      "ELORO EL GUABO",
+      "ELORO HUAQUILLAS",
+      "ELORO MACHALA AV. LAS PALMERAS",
+      "ELORO MACHALA AV. ROCAFUERTE",
+      "ELORO PASAJE",
+      "ELORO PIÑAS",
+      "ELORO SANTA ROSA",
+      "GUAY NARANJAL",
+      "ELORO MACHALA TERMINAL",
+      "ELORO MACHALA HECTOR TORO"
+    ],
+    "distanciaEstimadaKm": 925.1
+  },
+  "LAMANA": {
+    "provincia": "COTOPAXI",
+    "pdvIds": [
+      "COTX LA MANA",
+      "LRIO BUENA FE",
+      "LRIO QUEVEDO AV. 7 DE OCTUBRE",
+      "LRIO QUINSALOMA",
+      "LRIO QUEVEDO SAN CAMILO",
+      "LRIO VENTANAS",
+      "LRIO VINCES"
+    ],
+    "distanciaEstimadaKm": 469.2
+  },
+  "AMB": {
+    "provincia": "COTOPAXI",
+    "pdvIds": [
+      "COTX LATACUNGA AV. 2 DE MAYO",
+      "COTX SALCEDO",
+      "COTX SAQUISILI",
+      "TUNG AMBATO CENTRO",
+      "TUNG AMBATO FICOA",
+      "TUNG AMBATO IZAMBA",
+      "TUNG AMBATO MALL DE LOS ANDES",
+      "TUNG AMBATO MAYORISTA",
+      "TUNG AMBATO STA ROSA",
+      "TUNG AMBATO TERESA FLOR",
+      "TUNG PELILEO",
+      "TUNG PILLARO",
+      "TUNG AMBATO PASEO SHOPPING"
+    ],
+    "distanciaEstimadaKm": 168.3
+  },
+  "SIN_RUTA": {
+    "provincia": "COTOPAXI",
+    "pdvIds": [
+      "COTX LATACUNGA SUR AV. QUIJANO",
+      "SUCU LAGO AGRIO AV. VENEZUELA",
+      "AZUY PAUTE"
+    ],
+    "distanciaEstimadaKm": 1052.9
+  },
+  "ESM": {
+    "provincia": "ESMERALDAS",
+    "pdvIds": [
+      "ESME ATACAMES",
+      "ESME LAS PALMAS",
+      "ESME QUININDE",
+      "PICH LOS BANCOS",
+      "PICH PUERTO QUITO",
+      "TSAC LA CONCORDIA"
+    ],
+    "distanciaEstimadaKm": 789.8
+  },
+  "GYE": {
+    "provincia": "GUAYAS",
+    "pdvIds": [
+      "GUAY DURAN SHOPPING",
+      "GUAY GYE 17 Y PORTETE",
+      "GUAY GYE CENTENARIO",
+      "GUAY GYE CENTRO AV. DEL EJERCITO",
+      "GUAY GYE CRISTO DEL CONSUELO",
+      "GUAY GYE FLORESTA 3",
+      "GUAY GYE GARZO CENTRO",
+      "GUAY GYE GUASMO CENTRO",
+      "GUAY GYE GUASMO MATERNIDAD",
+      "GUAY GYE LA ALBORADA 12",
+      "GUAY GYE LAS PEÑAS",
+      "GUAY GYE LOS ESTEROS",
+      "GUAY GYE MUCHO LOTE 1",
+      "GUAY GYE PLAZA SAN FRANCISCO",
+      "GUAY GYE RIOCENTRO SUR",
+      "GUAY GYE SAUCES 6",
+      "GUAY GYE TIA PORTETE",
+      "GUAY GYE URDANETA",
+      "GUAY GYE URDESA",
+      "GUAY GYE SAMANES 4",
+      "GUAY PLAZA TIA DURAN"
+    ],
+    "distanciaEstimadaKm": 523.3
+  },
+  "PLAYAS": {
+    "provincia": "GUAYAS",
+    "pdvIds": [
+      "GUAY GYE CHONGON",
+      "GUAY GYE COOP JUAN MONTALVO",
+      "GUAY GYE MAPASINGUE",
+      "GUAY VILLAMIL PLAYAS",
+      "GUAY VILLAMIL PLAYAS SHOPPING",
+      "STAEL LA LIBERTAD",
+      "STAEL SALINAS",
+      "STAEL SANTA ELENA"
+    ],
+    "distanciaEstimadaKm": 819.7
+  },
+  "IMB": {
+    "provincia": "IMBABURA",
+    "pdvIds": [
+      "IMBA OTAVALO",
+      "PICH CAYAMBE CENTRO",
+      "PICH MEJIA MACHACHI",
+      "PICH QUITO EL QUINCHE",
+      "PICH QUITO GUAYLLABAMBA",
+      "PICH RUMIÑAHUI SAN RAFAEL",
+      "PICH SANGOLQUI"
+    ],
+    "distanciaEstimadaKm": 456
+  },
+  "LOJA": {
+    "provincia": "LOJA",
+    "pdvIds": [
+      "LOJA AV. 18 DE NOVIEMBRE",
+      "LOJA CATAMAYO",
+      "LOJA PARQUE BOLIVAR",
+      "ZAMR YANTZAZA",
+      "ZAMR ZAMORA",
+      "LOJA AV. 8 DE DICIEMBRE"
+    ],
+    "distanciaEstimadaKm": 906.6
+  },
+  "MAB": {
+    "provincia": "MANABI",
+    "pdvIds": [
+      "MANB MANTA CALLE 13",
+      "MANB PORTOVIEJO AV. MANABI",
+      "TSAC SANTO DOMINGO AV LORENA",
+      "TSAC SANTO DOMINGO CALLE 29 DE MAYO",
+      "TSAC SANTO DOMINGO LA CHORRERA",
+      "TSAC SANTO DOMINGO SHOPPING"
+    ],
+    "distanciaEstimadaKm": 825.5
+  },
+  "MCS-PYO": {
+    "provincia": "MORONA SANTIAGO",
+    "pdvIds": [
+      "MORO MACAS",
+      "MORO SUCUA",
+      "PAST PUYO CENTRO",
+      "PAST PUYO EL OBRERO",
+      "PAST PUYO PRINCIPAL"
+    ],
+    "distanciaEstimadaKm": 431.7
+  },
+  "ORIENTE": {
+    "provincia": "NAPO",
+    "pdvIds": [
+      "NAPO TENA AV 15 DE NOVIEMBRE",
+      "NAPO TENA HOSPITAL JOSE VELASCO",
+      "NAPO TENA PARQUE LINEAL",
+      "OREL EL COCA CALLE NAPO",
+      "OREL EL COCA TERMINAL",
+      "OREL JOYA DE LOS SACHAS",
+      "OREL LORETO",
+      "SUCU LAGO AGRIO PARQUE RECREACIONAL",
+      "SUCU SHUSHUFINDI"
+    ],
+    "distanciaEstimadaKm": 687.8
+  },
+  "QUITO": {
+    "provincia": "PICHINCHA",
+    "pdvIds": [
+      "PICH QUITO CENTRO SAN FRANCISCO",
+      "PICH QUITO NORTE CARAPUNGO",
+      "PICH QUITO NORTE COTOCOLLAO",
+      "PICH QUITO NORTE EL CONDADO",
+      "PICH QUITO NORTE LA CAROLINA",
+      "PICH QUITO NORTE LA COLON",
+      "PICH QUITO NORTE NAYON",
+      "PICH QUITO NORTE PIFO",
+      "PICH QUITO NORTE U CENTRAL",
+      "PICH QUITO SUR AMAGUAÑA",
+      "PICH QUITO SUR CAUPICHO",
+      "PICH QUITO SUR CDLA IBARRA",
+      "PICH QUITO SUR CHILLOGALLO",
+      "PICH QUITO SUR CONOCOTO",
+      "PICH QUITO SUR LA MICHELENA",
+      "PICH QUITO SUR NUEVA AURORA",
+      "PICH QUITO SUR SOLANDA AJAVI",
+      "PICH QUITO SUR VILLAFLORA",
+      "PICH QUITO CENTRO HISTORICO",
+      "PICH QUITO LA KENNEDY"
+    ],
+    "distanciaEstimadaKm": 367.6
+  }
+}

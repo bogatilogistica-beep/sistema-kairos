@@ -1,0 +1,184 @@
+{
+  "modelo": "precio-fijo-por-ruta",
+  "nota": "El transportista cobra precio fijo por ruta despachada. El costo no depende de kg ni de km. Usar porRuta[ruta].precioRuta. La regresión lineal queda solo como respaldo para rutas sin precio pactado.",
+  "porRuta": {
+    "GUAYAS": {
+      "precioRuta": 400,
+      "numViajes": 33,
+      "variacionPct": 13.1,
+      "avgKg": 2386,
+      "avgPdv": 12.5,
+      "kmEstimados": 667,
+      "costoPorKm": 0.6
+    },
+    "QUITO": {
+      "precioRuta": 250,
+      "numViajes": 21,
+      "variacionPct": 0,
+      "avgKg": 1783,
+      "avgPdv": 12.1,
+      "kmEstimados": 372,
+      "costoPorKm": 0.672
+    },
+    "MANABI": {
+      "precioRuta": 410,
+      "numViajes": 18,
+      "variacionPct": 0.6,
+      "avgKg": 1149,
+      "avgPdv": 5.7,
+      "kmEstimados": 1081,
+      "costoPorKm": 0.379
+    },
+    "MACAS-PUYO": {
+      "precioRuta": 240,
+      "numViajes": 17,
+      "variacionPct": 2.7,
+      "avgKg": 580,
+      "avgPdv": 5,
+      "kmEstimados": 510,
+      "costoPorKm": 0.47
+    },
+    "BOLGY": {
+      "precioRuta": 470,
+      "numViajes": 17,
+      "variacionPct": 11.9,
+      "avgKg": 2006,
+      "avgPdv": 9.5,
+      "kmEstimados": 772,
+      "costoPorKm": 0.609
+    },
+    "LA MANA": {
+      "precioRuta": 410,
+      "numViajes": 17,
+      "variacionPct": 0,
+      "avgKg": 1318,
+      "avgPdv": 6.5,
+      "kmEstimados": 602,
+      "costoPorKm": 0.681
+    },
+    "AMBATO": {
+      "precioRuta": 180,
+      "numViajes": 17,
+      "variacionPct": 23.9,
+      "avgKg": 1637,
+      "avgPdv": 10.3,
+      "kmEstimados": 178,
+      "costoPorKm": 1.009
+    },
+    "ORIENTE": {
+      "precioRuta": 550,
+      "numViajes": 17,
+      "variacionPct": 4.6,
+      "avgKg": 1771,
+      "avgPdv": 8.5,
+      "kmEstimados": 876,
+      "costoPorKm": 0.628
+    },
+    "CUENCA": {
+      "precioRuta": 430,
+      "numViajes": 16,
+      "variacionPct": 2.7,
+      "avgKg": 2190,
+      "avgPdv": 13.5,
+      "kmEstimados": 763,
+      "costoPorKm": 0.564
+    },
+    "PLAYAS": {
+      "precioRuta": 450,
+      "numViajes": 16,
+      "variacionPct": 10,
+      "avgKg": 1368,
+      "avgPdv": 5.1,
+      "kmEstimados": 948,
+      "costoPorKm": 0.475
+    },
+    "RIOBAMBA": {
+      "precioRuta": 125,
+      "numViajes": 15,
+      "variacionPct": 0,
+      "avgKg": 1097,
+      "avgPdv": 6.5,
+      "kmEstimados": 190,
+      "costoPorKm": 0.657
+    },
+    "MACHALA": {
+      "precioRuta": 580,
+      "numViajes": 15,
+      "variacionPct": 0.6,
+      "avgKg": 2503,
+      "avgPdv": 10.9,
+      "kmEstimados": 1012,
+      "costoPorKm": 0.573
+    },
+    "LOJA": {
+      "precioRuta": 660,
+      "numViajes": 15,
+      "variacionPct": 3,
+      "avgKg": 1664,
+      "avgPdv": 6.6,
+      "kmEstimados": 1204,
+      "costoPorKm": 0.548
+    },
+    "IMBABURA": {
+      "precioRuta": 325,
+      "numViajes": 14,
+      "variacionPct": 9.5,
+      "avgKg": 1405,
+      "avgPdv": 7.6,
+      "kmEstimados": 463,
+      "costoPorKm": 0.702
+    },
+    "ESMERALDAS": {
+      "precioRuta": 420,
+      "numViajes": 7,
+      "variacionPct": 16,
+      "avgKg": 1663,
+      "avgPdv": 5.7,
+      "kmEstimados": 942,
+      "costoPorKm": 0.446
+    },
+    "CUENCA-LOJA": {
+      "precioRuta": 900,
+      "numViajes": 2,
+      "variacionPct": 0,
+      "avgKg": 2836,
+      "avgPdv": 14.5,
+      "kmEstimados": null,
+      "costoPorKm": null
+    },
+    "GUAYAS-PLAYAS": {
+      "precioRuta": 780,
+      "numViajes": 1,
+      "variacionPct": 0,
+      "avgKg": 2928,
+      "avgPdv": 16,
+      "kmEstimados": null,
+      "costoPorKm": null
+    },
+    "GYE": {
+      "precioRuta": 500,
+      "numViajes": 1,
+      "variacionPct": 0,
+      "avgKg": 2614,
+      "avgPdv": 11,
+      "kmEstimados": 667,
+      "costoPorKm": 0.75
+    }
+  },
+  "regresion": {
+    "alpha": 22.72,
+    "beta": 0.0529,
+    "gamma": 0.4059,
+    "r2": 0.827,
+    "errorMedioPct": 13.5,
+    "muestras": 256
+  },
+  "resumen": {
+    "gastoTotalUsd": 102838,
+    "numViajes": 259,
+    "meses": 9,
+    "costoPromedioViajeUsd": 397,
+    "gastoPromedioMesUsd": 11426,
+    "viajesPorMes": 28.8
+  }
+}

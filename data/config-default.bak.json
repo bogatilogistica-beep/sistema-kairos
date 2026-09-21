@@ -1,0 +1,23 @@
+{
+  "capacidadCamionKg": 3500,
+  "numeroCamionesDisponibles": 5,
+  "horasDisponiblesPorCamionSemana": 55,
+  "radioMaximoViajeKm": 220,
+  "horaAperturaGeneral": "06:00",
+  "horaMasTempranoCarga": "01:00",
+  "horaMasTardeCarga": "16:00",
+  "duracionCargaMin": 90,
+  "factorCircuidadVial": 1.3,
+  "velocidadPromedioKmh": 45,
+  "minutosPorParada": 15,
+  "costoFormula": {
+    "alpha": 10.84,
+    "beta": 0.05,
+    "gamma": 0.524
+  },
+  "pesoAsignacionPct": 0.5,
+  "depot": {
+    "lat": -1.1946871,
+    "lon": -78.5936726
+  }
+}
