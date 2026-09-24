@@ -104,6 +104,8 @@ export const TARIFA_OBJETIVO_PDV = tarifaObjetivoPdvJson as Record<
     tarifaObjetivoUsd: number;
     minPedidoUsd: number | string | null;
     tipo: string | null;
+    /** Presente solo en los PDV refrescados con datos reales de facturación reciente (fuera de la política original). */
+    fuenteCobroActual?: string;
   }
 >;
 

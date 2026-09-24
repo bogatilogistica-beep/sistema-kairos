@@ -1,12 +1,13 @@
 {
   "PICH QUITO CENTRO HISTORICO": {
     "ruta": "Quito",
-    "cobroActualUsd": 0,
+    "cobroActualUsd": 23,
     "mes1Usd": 0,
     "mes2Usd": 0,
-    "tarifaObjetivoUsd": 0,
+    "tarifaObjetivoUsd": 23,
     "minPedidoUsd": "—",
-    "tipo": "PROPIO (no factura)"
+    "tipo": "PROPIO (no factura)",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "PICH QUITO CENTRO SAN FRANCISCO": {
     "ruta": "Quito",
@@ -262,12 +263,13 @@
   },
   "GUAY GYE PLAZA SAN FRANCISCO": {
     "ruta": "Guayaquil",
-    "cobroActualUsd": 28.75,
+    "cobroActualUsd": 23,
     "mes1Usd": 29,
     "mes2Usd": 29,
     "tarifaObjetivoUsd": 29,
     "minPedidoUsd": 290,
-    "tipo": "—"
+    "tipo": "—",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "GUAY GYE RIOCENTRO SUR": {
     "ruta": "Guayaquil",
@@ -280,12 +282,13 @@
   },
   "GUAY GYE SAMANES 4": {
     "ruta": "Guayaquil",
-    "cobroActualUsd": 28.75,
+    "cobroActualUsd": 23,
     "mes1Usd": 29,
     "mes2Usd": 29,
     "tarifaObjetivoUsd": 29,
     "minPedidoUsd": 290,
-    "tipo": "—"
+    "tipo": "—",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "GUAY GYE SAUCES 6": {
     "ruta": "Guayaquil",
@@ -316,12 +319,13 @@
   },
   "GUAY GYE URDESA": {
     "ruta": "Guayaquil",
-    "cobroActualUsd": 28.75,
+    "cobroActualUsd": 23,
     "mes1Usd": 29,
     "mes2Usd": 29,
     "tarifaObjetivoUsd": 29,
     "minPedidoUsd": 290,
-    "tipo": "—"
+    "tipo": "—",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "COTX LATACUNGA AV. 2 DE MAYO": {
     "ruta": "Ambato",
@@ -730,12 +734,13 @@
   },
   "MANB MANTA CALLE 13": {
     "ruta": "Manabí",
-    "cobroActualUsd": 28.75,
+    "cobroActualUsd": 40,
     "mes1Usd": 39,
     "mes2Usd": 48,
     "tarifaObjetivoUsd": 58,
     "minPedidoUsd": 580,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "MANB PORTOVIEJO AV. MANABI": {
     "ruta": "Manabí",
@@ -748,39 +753,43 @@
   },
   "TSAC SANTO DOMINGO AV LORENA": {
     "ruta": "Manabí",
-    "cobroActualUsd": 28.75,
+    "cobroActualUsd": 23,
     "mes1Usd": 39,
     "mes2Usd": 48,
-    "tarifaObjetivoUsd": 58,
+    "tarifaObjetivoUsd": 46,
     "minPedidoUsd": 580,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "TSAC SANTO DOMINGO CALLE 29 DE MAYO": {
     "ruta": "Manabí",
-    "cobroActualUsd": 28.75,
+    "cobroActualUsd": 40,
     "mes1Usd": 39,
     "mes2Usd": 48,
     "tarifaObjetivoUsd": 58,
     "minPedidoUsd": 580,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "TSAC SANTO DOMINGO LA CHORRERA": {
     "ruta": "Manabí",
-    "cobroActualUsd": 28.75,
+    "cobroActualUsd": 40,
     "mes1Usd": 39,
     "mes2Usd": 48,
     "tarifaObjetivoUsd": 58,
     "minPedidoUsd": 580,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "TSAC SANTO DOMINGO SHOPPING": {
     "ruta": "Manabí",
-    "cobroActualUsd": 28.75,
+    "cobroActualUsd": 40,
     "mes1Usd": 39,
     "mes2Usd": 48,
     "tarifaObjetivoUsd": 58,
     "minPedidoUsd": 580,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "BOLI GUARANDA PARQUE CENTRAL": {
     "ruta": "Bolívar/Guayas",
@@ -847,21 +856,23 @@
   },
   "LRIO BABAHOYO AV 5. DE JUNIO": {
     "ruta": "Bolívar/Guayas",
-    "cobroActualUsd": 28.75,
+    "cobroActualUsd": 40,
     "mes1Usd": 36,
     "mes2Usd": 42,
     "tarifaObjetivoUsd": 49,
     "minPedidoUsd": 490,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "LRIO BABAHOYO SHOPPING": {
     "ruta": "Bolívar/Guayas",
-    "cobroActualUsd": 28.75,
+    "cobroActualUsd": 40,
     "mes1Usd": 36,
     "mes2Usd": 42,
     "tarifaObjetivoUsd": 49,
     "minPedidoUsd": 490,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "LRIO MONTALVO": {
     "ruta": "Bolívar/Guayas",
@@ -1072,75 +1083,83 @@
   },
   "ELORO EL GUABO": {
     "ruta": "Machala",
-    "cobroActualUsd": 40,
+    "cobroActualUsd": 35,
     "mes1Usd": 44,
     "mes2Usd": 49,
     "tarifaObjetivoUsd": 53,
     "minPedidoUsd": 530,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "ELORO HUAQUILLAS": {
     "ruta": "Machala",
-    "cobroActualUsd": 45,
+    "cobroActualUsd": 35,
     "mes1Usd": 48,
     "mes2Usd": 50,
     "tarifaObjetivoUsd": 53,
     "minPedidoUsd": 530,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "ELORO MACHALA AV. LAS PALMERAS": {
     "ruta": "Machala",
-    "cobroActualUsd": 40,
+    "cobroActualUsd": 35,
     "mes1Usd": 44,
     "mes2Usd": 49,
     "tarifaObjetivoUsd": 53,
     "minPedidoUsd": 530,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "ELORO MACHALA AV. ROCAFUERTE": {
     "ruta": "Machala",
-    "cobroActualUsd": 40,
+    "cobroActualUsd": 35,
     "mes1Usd": 44,
     "mes2Usd": 49,
     "tarifaObjetivoUsd": 53,
     "minPedidoUsd": 530,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "ELORO PASAJE": {
     "ruta": "Machala",
-    "cobroActualUsd": 40,
+    "cobroActualUsd": 35,
     "mes1Usd": 44,
     "mes2Usd": 49,
     "tarifaObjetivoUsd": 53,
     "minPedidoUsd": 530,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "ELORO PIÑAS": {
     "ruta": "Machala",
-    "cobroActualUsd": 45,
+    "cobroActualUsd": 35,
     "mes1Usd": 48,
     "mes2Usd": 50,
     "tarifaObjetivoUsd": 53,
     "minPedidoUsd": 530,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "ELORO SANTA ROSA": {
     "ruta": "Machala",
-    "cobroActualUsd": 45,
+    "cobroActualUsd": 35,
     "mes1Usd": 48,
     "mes2Usd": 50,
     "tarifaObjetivoUsd": 53,
     "minPedidoUsd": 530,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "GUAY NARANJAL": {
     "ruta": "Machala",
-    "cobroActualUsd": 23,
+    "cobroActualUsd": 45,
     "mes1Usd": 33,
     "mes2Usd": 43,
     "tarifaObjetivoUsd": 53,
     "minPedidoUsd": 530,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (precios por semana, ago-2026)"
   },
   "NAPO TENA AV 15 DE NOVIEMBRE": {
     "ruta": "Oriente",
