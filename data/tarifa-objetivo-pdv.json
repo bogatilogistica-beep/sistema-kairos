@@ -793,12 +793,13 @@
   },
   "BOLI GUARANDA PARQUE CENTRAL": {
     "ruta": "Bolívar/Guayas",
-    "cobroActualUsd": 32,
+    "cobroActualUsd": 40,
     "mes1Usd": 38,
     "mes2Usd": 43,
     "tarifaObjetivoUsd": 49,
     "minPedidoUsd": 490,
-    "tipo": "Queso/crema: SÍ"
+    "tipo": "Queso/crema: SÍ",
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (factura mas reciente: 2026-08-19)"
   },
   "GUAY JUJAN": {
     "ruta": "Bolívar/Guayas",
@@ -1340,5 +1341,95 @@
     "tarifaObjetivoUsd": 82,
     "minPedidoUsd": 820,
     "tipo": "Queso/crema: SÍ"
+  },
+  "PICH QUITO LA KENNEDY": {
+    "ruta": "QUITO",
+    "cobroActualUsd": 23,
+    "mes1Usd": 23,
+    "mes2Usd": 23,
+    "tarifaObjetivoUsd": 23,
+    "minPedidoUsd": null,
+    "tipo": null,
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (factura mas reciente: 2026-08-31) - PDV sin tarifa en politica original"
+  },
+  "ELORO MACHALA HECTOR TORO": {
+    "ruta": "MACHLA",
+    "cobroActualUsd": 35,
+    "mes1Usd": 35,
+    "mes2Usd": 35,
+    "tarifaObjetivoUsd": 35,
+    "minPedidoUsd": null,
+    "tipo": null,
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (factura mas reciente: 2026-08-31) - PDV sin tarifa en politica original"
+  },
+  "ELORO MACHALA TERMINAL": {
+    "ruta": "MACHLA",
+    "cobroActualUsd": 35,
+    "mes1Usd": 35,
+    "mes2Usd": 35,
+    "tarifaObjetivoUsd": 35,
+    "minPedidoUsd": null,
+    "tipo": null,
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (factura mas reciente: 2026-08-31) - PDV sin tarifa en politica original"
+  },
+  "GUAY PLAZA TIA DURAN": {
+    "ruta": "GYE",
+    "cobroActualUsd": 23,
+    "mes1Usd": 23,
+    "mes2Usd": 23,
+    "tarifaObjetivoUsd": 23,
+    "minPedidoUsd": null,
+    "tipo": null,
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (factura mas reciente: 2026-08-31) - PDV sin tarifa en politica original"
+  },
+  "CHIM RIOBAMBA LA VASIJA": {
+    "ruta": "RBB",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 30,
+    "tarifaObjetivoUsd": 30,
+    "minPedidoUsd": null,
+    "tipo": null,
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (factura mas reciente: 2026-08-19) - PDV sin tarifa en politica original"
+  },
+  "GUAY SANTA LUCIA": {
+    "ruta": "BOLGY",
+    "cobroActualUsd": 40,
+    "mes1Usd": 40,
+    "mes2Usd": 40,
+    "tarifaObjetivoUsd": 40,
+    "minPedidoUsd": null,
+    "tipo": null,
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (factura mas reciente: 2026-08-19) - PDV sin tarifa en politica original"
+  },
+  "AZUY PAUTE": {
+    "ruta": "SIN_RUTA",
+    "cobroActualUsd": 35,
+    "mes1Usd": 35,
+    "mes2Usd": 35,
+    "tarifaObjetivoUsd": 35,
+    "minPedidoUsd": null,
+    "tipo": null,
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (factura mas reciente: 2026-08-24) - PDV sin tarifa en politica original"
+  },
+  "LOJA AV. 8 DE DICIEMBRE": {
+    "ruta": "LOJA",
+    "cobroActualUsd": 35,
+    "mes1Usd": 35,
+    "mes2Usd": 35,
+    "tarifaObjetivoUsd": 35,
+    "minPedidoUsd": null,
+    "tipo": null,
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (factura mas reciente: 2026-08-24) - PDV sin tarifa en politica original"
+  },
+  "GUAY PEDRO CARBO": {
+    "ruta": "BOLGY",
+    "cobroActualUsd": 45,
+    "mes1Usd": 45,
+    "mes2Usd": 45,
+    "tarifaObjetivoUsd": 45,
+    "minPedidoUsd": null,
+    "tipo": null,
+    "fuenteCobroActual": "RECAUDADO TRANSPORTE PDV.xlsx (factura mas reciente: 2026-03-19) - PDV sin tarifa en politica original"
   }
 }
