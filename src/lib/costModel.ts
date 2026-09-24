@@ -1,5 +1,5 @@
 import { CargaPdv, Categoria, ConfigOptimizacion, ParadaRuta } from "./types";
-import { COSTOS_HISTORICOS, COSTOS_ORDINARIOS_APERTURAS } from "./pdvData";
+import { COSTOS_HISTORICOS, COSTOS_ORDINARIOS_APERTURAS, TARIFA_OBJETIVO_PDV } from "./pdvData";
 import { DEFAULT_DENSITY_KG_POR_LITRO } from "./productWeights";
 
 /**
@@ -40,6 +40,17 @@ export function costoViajeUsd(
   if (ordinario !== null) return ordinario;
 
   return formula.alpha + formula.beta * pesoTotalKg + formula.gamma * distanciaTotalKm;
+}
+
+/**
+ * Tarifa objetivo por PDV: la política de cobro de transporte ya diseñada con el
+ * transportista (229 viajes reales, costo real ÷ paradas facturables por ruta), con un
+ * tope de equidad de 2x el cobro actual — ningún PDV sube más del doble de lo que paga
+ * hoy. Es la fuente PRINCIPAL del costo sugerido por PDV: reemplaza tanto el prorrateo
+ * como la tabla de costos ordinarios de aperturas cuando el PDV está en esta tabla.
+ */
+export function costoTarifaObjetivoPdvUsd(pdvId: string): number | null {
+  return TARIFA_OBJETIVO_PDV[pdvId]?.tarifaObjetivoUsd ?? null;
 }
 
 /**
@@ -190,13 +201,16 @@ interface AsignarCostoInput {
 /**
  * Asigna a cada PDV el costo de su parada dentro del viaje.
  *
- * Prioridad 1: si el PDV está en la tabla de costos ORDINARIOS de aperturas, se le asigna
- * DIRECTAMENTE ese número — es un costo real por tienda (helado+queso+crema+insumos+
- * envases), más confiable que cualquier prorrateo, con o sin ruta pactada.
+ * Prioridad 1: la tarifa objetivo de la política de cobro (costo real ÷ paradas
+ * facturables, tope de equidad 2x) — el número que Bogati debería cobrarle a ese PDV
+ * hoy, ya diseñado con el transportista.
  *
- * Prioridad 2 (solo para los PDV que no están en esa tabla): se prorratea lo que queda del
- * costo del viaje (costoTotalViajeUsd menos lo ya asignado directamente) combinando dos
- * criterios:
+ * Prioridad 2 (solo PDV que no están en la tarifa objetivo, típicamente aperturas nuevas):
+ * la tabla de costos ORDINARIOS de aperturas — un costo real por tienda (helado+queso+
+ * crema+insumos+envases), ajustado al mix de categorías que sí viaja.
+ *
+ * Prioridad 3 (el resto): se prorratea lo que queda del costo del viaje (costoTotalViajeUsd
+ * menos lo ya asignado directamente) combinando dos criterios:
  *  - Participación en el peso transportado (¿cuánto ocupó del camión?)
  *  - Participación en la distancia marginal (¿cuánto se desvió/alargó la ruta por visitarlo?)
  *
@@ -211,7 +225,8 @@ export function asignarCostoPorPdv({
 }: AsignarCostoInput): ParadaRuta[] {
   const costoDirectoPorPdv = new Map<string, number>();
   for (const parada of paradas) {
-    const costo = costoOrdinarioPdvUsd(parada.pdv.id, parada.categorias);
+    const tarifaObjetivo = costoTarifaObjetivoPdvUsd(parada.pdv.id);
+    const costo = tarifaObjetivo ?? costoOrdinarioPdvUsd(parada.pdv.id, parada.categorias);
     if (costo !== null) costoDirectoPorPdv.set(parada.pdv.id, costo);
   }
 

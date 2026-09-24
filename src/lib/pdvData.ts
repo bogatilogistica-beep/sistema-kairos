@@ -7,6 +7,7 @@ import dataQualityJson from "../../data/data-quality-report.json";
 import productosConversionJson from "../../data/productos-conversion.json";
 import ventanasHorariasJson from "../../data/ventanas-horarias.json";
 import costosOrdinariosAperturasJson from "../../data/costos-ordinarios-aperturas.json";
+import tarifaObjetivoPdvJson from "../../data/tarifa-objetivo-pdv.json";
 import type { Pdv, ConfigOptimizacion } from "./types";
 import type { ProductoConversion } from "./productWeights";
 
@@ -84,6 +85,25 @@ export const COSTOS_ORDINARIOS_APERTURAS = costosOrdinariosAperturasJson as Reco
     envasesUsd: number;
     totalUsd: number;
     totalRedondeadoUsd: number;
+  }
+>;
+/**
+ * Tarifa objetivo por PDV: la política de cobro de transporte ya diseñada con el
+ * transportista (229 viajes reales, abr-2025 a jul-2026), a costo real por parada
+ * facturable, con un tope de equidad de 2x el cobro actual — ningún PDV sube más del
+ * doble de lo que paga hoy, así la actualización no perjudica al franquiciado. Reemplaza
+ * el costo sugerido por PDV como fuente principal. Ver data/tarifa-objetivo-pdv.json.
+ */
+export const TARIFA_OBJETIVO_PDV = tarifaObjetivoPdvJson as Record<
+  string,
+  {
+    ruta: string;
+    cobroActualUsd: number;
+    mes1Usd: number;
+    mes2Usd: number;
+    tarifaObjetivoUsd: number;
+    minPedidoUsd: number | string | null;
+    tipo: string | null;
   }
 >;
 

@@ -1,0 +1,1325 @@
+{
+  "PICH QUITO CENTRO HISTORICO": {
+    "ruta": "Quito",
+    "cobroActualUsd": 0,
+    "mes1Usd": 0,
+    "mes2Usd": 0,
+    "tarifaObjetivoUsd": 0,
+    "minPedidoUsd": "—",
+    "tipo": "PROPIO (no factura)"
+  },
+  "PICH QUITO CENTRO SAN FRANCISCO": {
+    "ruta": "Quito",
+    "cobroActualUsd": 0,
+    "mes1Usd": 0,
+    "mes2Usd": 0,
+    "tarifaObjetivoUsd": 0,
+    "minPedidoUsd": "—",
+    "tipo": "PROPIO (no factura)"
+  },
+  "PICH QUITO NORTE CARAPUNGO": {
+    "ruta": "Quito",
+    "cobroActualUsd": 23,
+    "mes1Usd": 24,
+    "mes2Usd": 24,
+    "tarifaObjetivoUsd": 25,
+    "minPedidoUsd": 250,
+    "tipo": "—"
+  },
+  "PICH QUITO NORTE COTOCOLLAO": {
+    "ruta": "Quito",
+    "cobroActualUsd": 23,
+    "mes1Usd": 24,
+    "mes2Usd": 24,
+    "tarifaObjetivoUsd": 25,
+    "minPedidoUsd": 250,
+    "tipo": "—"
+  },
+  "PICH QUITO NORTE EL CONDADO": {
+    "ruta": "Quito",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 29,
+    "mes2Usd": 29,
+    "tarifaObjetivoUsd": 28.75,
+    "minPedidoUsd": 250,
+    "tipo": "—"
+  },
+  "PICH QUITO NORTE LA CAROLINA": {
+    "ruta": "Quito",
+    "cobroActualUsd": 0,
+    "mes1Usd": 0,
+    "mes2Usd": 0,
+    "tarifaObjetivoUsd": 0,
+    "minPedidoUsd": "—",
+    "tipo": "PROPIO (no factura)"
+  },
+  "PICH QUITO NORTE LA COLON": {
+    "ruta": "Quito",
+    "cobroActualUsd": 0,
+    "mes1Usd": 0,
+    "mes2Usd": 0,
+    "tarifaObjetivoUsd": 0,
+    "minPedidoUsd": "—",
+    "tipo": "PROPIO (no factura)"
+  },
+  "PICH QUITO NORTE NAYON": {
+    "ruta": "Quito",
+    "cobroActualUsd": 23,
+    "mes1Usd": 24,
+    "mes2Usd": 24,
+    "tarifaObjetivoUsd": 25,
+    "minPedidoUsd": 250,
+    "tipo": "—"
+  },
+  "PICH QUITO NORTE U CENTRAL": {
+    "ruta": "Quito",
+    "cobroActualUsd": 23,
+    "mes1Usd": 24,
+    "mes2Usd": 24,
+    "tarifaObjetivoUsd": 25,
+    "minPedidoUsd": 250,
+    "tipo": "—"
+  },
+  "PICH QUITO SUR CAUPICHO": {
+    "ruta": "Quito",
+    "cobroActualUsd": 23,
+    "mes1Usd": 24,
+    "mes2Usd": 24,
+    "tarifaObjetivoUsd": 25,
+    "minPedidoUsd": 250,
+    "tipo": "—"
+  },
+  "PICH QUITO SUR CDLA IBARRA": {
+    "ruta": "Quito",
+    "cobroActualUsd": 23,
+    "mes1Usd": 24,
+    "mes2Usd": 24,
+    "tarifaObjetivoUsd": 25,
+    "minPedidoUsd": 250,
+    "tipo": "—"
+  },
+  "PICH QUITO SUR CHILLOGALLO": {
+    "ruta": "Quito",
+    "cobroActualUsd": 23,
+    "mes1Usd": 24,
+    "mes2Usd": 24,
+    "tarifaObjetivoUsd": 25,
+    "minPedidoUsd": 250,
+    "tipo": "—"
+  },
+  "PICH QUITO SUR LA MICHELENA": {
+    "ruta": "Quito",
+    "cobroActualUsd": 23,
+    "mes1Usd": 24,
+    "mes2Usd": 24,
+    "tarifaObjetivoUsd": 25,
+    "minPedidoUsd": 250,
+    "tipo": "—"
+  },
+  "PICH QUITO SUR NUEVA AURORA": {
+    "ruta": "Quito",
+    "cobroActualUsd": 0,
+    "mes1Usd": 0,
+    "mes2Usd": 0,
+    "tarifaObjetivoUsd": 0,
+    "minPedidoUsd": "—",
+    "tipo": "PROPIO (no factura)"
+  },
+  "PICH QUITO SUR SOLANDA AJAVI": {
+    "ruta": "Quito",
+    "cobroActualUsd": 0,
+    "mes1Usd": 0,
+    "mes2Usd": 0,
+    "tarifaObjetivoUsd": 0,
+    "minPedidoUsd": "—",
+    "tipo": "PROPIO (no factura)"
+  },
+  "PICH QUITO SUR VILLAFLORA": {
+    "ruta": "Quito",
+    "cobroActualUsd": 23,
+    "mes1Usd": 24,
+    "mes2Usd": 24,
+    "tarifaObjetivoUsd": 25,
+    "minPedidoUsd": 250,
+    "tipo": "—"
+  },
+  "GUAY DURAN SHOPPING": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 29,
+    "mes2Usd": 29,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE 17 Y PORTETE": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE CENTENARIO": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE CENTRO AV. DEL EJERCITO": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 29,
+    "mes2Usd": 29,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE CRISTO DEL CONSUELO": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE FLORESTA 3": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE GARZO CENTRO": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 29,
+    "mes2Usd": 29,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE GUASMO CENTRO": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE GUASMO MATERNIDAD": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE LA ALBORADA 12": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE LAS PEÑAS": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE LOS ESTEROS": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE MUCHO LOTE 1": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE PLAZA SAN FRANCISCO": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 29,
+    "mes2Usd": 29,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE RIOCENTRO SUR": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 29,
+    "mes2Usd": 29,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE SAMANES 4": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 29,
+    "mes2Usd": 29,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE SAUCES 6": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE TIA PORTETE": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE URDANETA": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 23,
+    "mes1Usd": 25,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "GUAY GYE URDESA": {
+    "ruta": "Guayaquil",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 29,
+    "mes2Usd": 29,
+    "tarifaObjetivoUsd": 29,
+    "minPedidoUsd": 290,
+    "tipo": "—"
+  },
+  "COTX LATACUNGA AV. 2 DE MAYO": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 20,
+    "mes1Usd": 20,
+    "mes2Usd": 21,
+    "tarifaObjetivoUsd": 21,
+    "minPedidoUsd": 210,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "COTX SALCEDO": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 20,
+    "mes1Usd": 20,
+    "mes2Usd": 21,
+    "tarifaObjetivoUsd": 21,
+    "minPedidoUsd": 210,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "COTX SAQUISILI": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 22,
+    "mes1Usd": 22,
+    "mes2Usd": 22,
+    "tarifaObjetivoUsd": 22,
+    "minPedidoUsd": 210,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TUNG AMBATO CENTRO": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 20,
+    "mes1Usd": 20,
+    "mes2Usd": 21,
+    "tarifaObjetivoUsd": 21,
+    "minPedidoUsd": 210,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TUNG AMBATO FICOA": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 0,
+    "mes1Usd": 0,
+    "mes2Usd": 0,
+    "tarifaObjetivoUsd": 0,
+    "minPedidoUsd": "—",
+    "tipo": "PROPIO (no factura)"
+  },
+  "TUNG AMBATO IZAMBA": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 20,
+    "mes1Usd": 20,
+    "mes2Usd": 21,
+    "tarifaObjetivoUsd": 21,
+    "minPedidoUsd": 210,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TUNG AMBATO MALL DE LOS ANDES": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 20,
+    "mes1Usd": 20,
+    "mes2Usd": 21,
+    "tarifaObjetivoUsd": 21,
+    "minPedidoUsd": 210,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TUNG AMBATO MAYORISTA": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 20,
+    "mes1Usd": 20,
+    "mes2Usd": 21,
+    "tarifaObjetivoUsd": 21,
+    "minPedidoUsd": 210,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TUNG AMBATO PASEO SHOPPING": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 0,
+    "mes1Usd": 0,
+    "mes2Usd": 0,
+    "tarifaObjetivoUsd": 0,
+    "minPedidoUsd": "—",
+    "tipo": "PROPIO (no factura)"
+  },
+  "TUNG AMBATO STA ROSA": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 20,
+    "mes1Usd": 20,
+    "mes2Usd": 21,
+    "tarifaObjetivoUsd": 21,
+    "minPedidoUsd": 210,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TUNG AMBATO TERESA FLOR": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 20,
+    "mes1Usd": 20,
+    "mes2Usd": 21,
+    "tarifaObjetivoUsd": 21,
+    "minPedidoUsd": 210,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TUNG PELILEO": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 22,
+    "mes1Usd": 22,
+    "mes2Usd": 22,
+    "tarifaObjetivoUsd": 22,
+    "minPedidoUsd": 210,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TUNG PILLARO": {
+    "ruta": "Ambato",
+    "cobroActualUsd": 22,
+    "mes1Usd": 22,
+    "mes2Usd": 22,
+    "tarifaObjetivoUsd": 22,
+    "minPedidoUsd": 210,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "AZUY CUENCA 9 DE OCTUBRE": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "AZUY CUENCA AMERICAS": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "AZUY CUENCA AV. SIMON BOLIVAR": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "AZUY CUENCA CALLE LARGA": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "AZUY CUENCA DON BOSCO": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "AZUY CUENCA REMIGIO CRESPO": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "AZUY CUENCA RICAURTE": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "AZUY CUENCA TOTORACOCHA": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "AZUY CUENCA UNCOVIA": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "AZUY GUALACEO": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "AZUY SIGSIG": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "CAÑR AZOGUES AV. 10 DE AGOSTO": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 35,
+    "mes1Usd": 35,
+    "mes2Usd": 35,
+    "tarifaObjetivoUsd": 35,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "CAÑR AZOGUES PARQUE DEL MIGRANTE": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 35,
+    "mes1Usd": 35,
+    "mes2Usd": 35,
+    "tarifaObjetivoUsd": 35,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "CAÑR BIBLIAN": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "CAÑR CAÑAR": {
+    "ruta": "Cuenca",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 31,
+    "tarifaObjetivoUsd": 31,
+    "minPedidoUsd": 310,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "CHIM CAJABAMBA": {
+    "ruta": "Riobamba",
+    "cobroActualUsd": 27,
+    "mes1Usd": 27,
+    "mes2Usd": 27,
+    "tarifaObjetivoUsd": 27,
+    "minPedidoUsd": 270,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "CHIM GUANO": {
+    "ruta": "Riobamba",
+    "cobroActualUsd": 25,
+    "mes1Usd": 26,
+    "mes2Usd": 26,
+    "tarifaObjetivoUsd": 27,
+    "minPedidoUsd": 270,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "CHIM RIOBAMBA CENTRO AV. 10 DE AGOSTO": {
+    "ruta": "Riobamba",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 30,
+    "tarifaObjetivoUsd": 30,
+    "minPedidoUsd": 270,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "CHIM RIOBAMBA MATRIZ": {
+    "ruta": "Riobamba",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 30,
+    "tarifaObjetivoUsd": 30,
+    "minPedidoUsd": 270,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "CHIM RIOBAMBA NORTE AV. LIZARZABURO": {
+    "ruta": "Riobamba",
+    "cobroActualUsd": 25,
+    "mes1Usd": 26,
+    "mes2Usd": 26,
+    "tarifaObjetivoUsd": 27,
+    "minPedidoUsd": 270,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "CHIM RIOBAMBA SUR AV. JUAN FELIX": {
+    "ruta": "Riobamba",
+    "cobroActualUsd": 25,
+    "mes1Usd": 26,
+    "mes2Usd": 26,
+    "tarifaObjetivoUsd": 27,
+    "minPedidoUsd": 270,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "CHIM RIOBAMBA TERMINAL": {
+    "ruta": "Riobamba",
+    "cobroActualUsd": 30,
+    "mes1Usd": 30,
+    "mes2Usd": 30,
+    "tarifaObjetivoUsd": 30,
+    "minPedidoUsd": 270,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "IMBA OTAVALO": {
+    "ruta": "Imbabura",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 31,
+    "mes2Usd": 32,
+    "tarifaObjetivoUsd": 34,
+    "minPedidoUsd": 340,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PICH CAYAMBE CENTRO": {
+    "ruta": "Imbabura",
+    "cobroActualUsd": 23,
+    "mes1Usd": 27,
+    "mes2Usd": 30,
+    "tarifaObjetivoUsd": 34,
+    "minPedidoUsd": 340,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PICH MEJIA MACHACHI": {
+    "ruta": "Imbabura",
+    "cobroActualUsd": 32,
+    "mes1Usd": 33,
+    "mes2Usd": 33,
+    "tarifaObjetivoUsd": 34,
+    "minPedidoUsd": 340,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PICH QUITO EL QUINCHE": {
+    "ruta": "Imbabura",
+    "cobroActualUsd": 23,
+    "mes1Usd": 27,
+    "mes2Usd": 30,
+    "tarifaObjetivoUsd": 34,
+    "minPedidoUsd": 340,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PICH QUITO GUAYLLABAMBA": {
+    "ruta": "Imbabura",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 31,
+    "mes2Usd": 32,
+    "tarifaObjetivoUsd": 34,
+    "minPedidoUsd": 340,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PICH QUITO NORTE PIFO": {
+    "ruta": "Imbabura",
+    "cobroActualUsd": 23,
+    "mes1Usd": 27,
+    "mes2Usd": 30,
+    "tarifaObjetivoUsd": 34,
+    "minPedidoUsd": 340,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PICH QUITO SUR AMAGUAÑA": {
+    "ruta": "Imbabura",
+    "cobroActualUsd": 23,
+    "mes1Usd": 27,
+    "mes2Usd": 30,
+    "tarifaObjetivoUsd": 34,
+    "minPedidoUsd": 340,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PICH QUITO SUR CONOCOTO": {
+    "ruta": "Imbabura",
+    "cobroActualUsd": 0,
+    "mes1Usd": 0,
+    "mes2Usd": 0,
+    "tarifaObjetivoUsd": 0,
+    "minPedidoUsd": "—",
+    "tipo": "PROPIO (no factura)"
+  },
+  "PICH RUMIÑAHUI SAN RAFAEL": {
+    "ruta": "Imbabura",
+    "cobroActualUsd": 23,
+    "mes1Usd": 27,
+    "mes2Usd": 30,
+    "tarifaObjetivoUsd": 34,
+    "minPedidoUsd": 340,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PICH SANGOLQUI": {
+    "ruta": "Imbabura",
+    "cobroActualUsd": 23,
+    "mes1Usd": 27,
+    "mes2Usd": 30,
+    "tarifaObjetivoUsd": 34,
+    "minPedidoUsd": 340,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "MANB MANTA CALLE 13": {
+    "ruta": "Manabí",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 39,
+    "mes2Usd": 48,
+    "tarifaObjetivoUsd": 58,
+    "minPedidoUsd": 580,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "MANB PORTOVIEJO AV. MANABI": {
+    "ruta": "Manabí",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 39,
+    "mes2Usd": 48,
+    "tarifaObjetivoUsd": 58,
+    "minPedidoUsd": 580,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TSAC SANTO DOMINGO AV LORENA": {
+    "ruta": "Manabí",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 39,
+    "mes2Usd": 48,
+    "tarifaObjetivoUsd": 58,
+    "minPedidoUsd": 580,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TSAC SANTO DOMINGO CALLE 29 DE MAYO": {
+    "ruta": "Manabí",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 39,
+    "mes2Usd": 48,
+    "tarifaObjetivoUsd": 58,
+    "minPedidoUsd": 580,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TSAC SANTO DOMINGO LA CHORRERA": {
+    "ruta": "Manabí",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 39,
+    "mes2Usd": 48,
+    "tarifaObjetivoUsd": 58,
+    "minPedidoUsd": 580,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TSAC SANTO DOMINGO SHOPPING": {
+    "ruta": "Manabí",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 39,
+    "mes2Usd": 48,
+    "tarifaObjetivoUsd": 58,
+    "minPedidoUsd": 580,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "BOLI GUARANDA PARQUE CENTRAL": {
+    "ruta": "Bolívar/Guayas",
+    "cobroActualUsd": 32,
+    "mes1Usd": 38,
+    "mes2Usd": 43,
+    "tarifaObjetivoUsd": 49,
+    "minPedidoUsd": 490,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "GUAY JUJAN": {
+    "ruta": "Bolívar/Guayas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 40,
+    "tarifaObjetivoUsd": 49,
+    "minPedidoUsd": 490,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "GUAY MILAGRO AV. JUAN MONTALVO": {
+    "ruta": "Bolívar/Guayas",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 36,
+    "mes2Usd": 42,
+    "tarifaObjetivoUsd": 49,
+    "minPedidoUsd": 490,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "GUAY MILAGRO LOS CHIRIJOS": {
+    "ruta": "Bolívar/Guayas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 40,
+    "tarifaObjetivoUsd": 49,
+    "minPedidoUsd": 490,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "GUAY MILAGRO SUR AV. CRISTOBAL COLON": {
+    "ruta": "Bolívar/Guayas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 40,
+    "tarifaObjetivoUsd": 49,
+    "minPedidoUsd": 490,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "GUAY SALITRE": {
+    "ruta": "Bolívar/Guayas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 40,
+    "tarifaObjetivoUsd": 49,
+    "minPedidoUsd": 490,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "GUAY SAMBORONDON": {
+    "ruta": "Bolívar/Guayas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 40,
+    "tarifaObjetivoUsd": 49,
+    "minPedidoUsd": 490,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "LRIO BABAHOYO AV 5. DE JUNIO": {
+    "ruta": "Bolívar/Guayas",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 36,
+    "mes2Usd": 42,
+    "tarifaObjetivoUsd": 49,
+    "minPedidoUsd": 490,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "LRIO BABAHOYO SHOPPING": {
+    "ruta": "Bolívar/Guayas",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 36,
+    "mes2Usd": 42,
+    "tarifaObjetivoUsd": 49,
+    "minPedidoUsd": 490,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "LRIO MONTALVO": {
+    "ruta": "Bolívar/Guayas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 40,
+    "tarifaObjetivoUsd": 49,
+    "minPedidoUsd": 490,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "COTX LA MANA": {
+    "ruta": "La Maná",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 36,
+    "mes2Usd": 43,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "LRIO BUENA FE": {
+    "ruta": "La Maná",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 41,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "LRIO QUEVEDO AV. 7 DE OCTUBRE": {
+    "ruta": "La Maná",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 36,
+    "mes2Usd": 43,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "LRIO QUEVEDO SAN CAMILO": {
+    "ruta": "La Maná",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 41,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "LRIO QUINSALOMA": {
+    "ruta": "La Maná",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 41,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "LRIO VENTANAS": {
+    "ruta": "La Maná",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 41,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "LRIO VINCES": {
+    "ruta": "La Maná",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 41,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "GUAY GYE CHONGON": {
+    "ruta": "Playas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 41,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "GUAY GYE COOP JUAN MONTALVO": {
+    "ruta": "Playas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 41,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "GUAY GYE MAPASINGUE": {
+    "ruta": "Playas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 41,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "GUAY VILLAMIL PLAYAS": {
+    "ruta": "Playas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 41,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "GUAY VILLAMIL PLAYAS SHOPPING": {
+    "ruta": "Playas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 32,
+    "mes2Usd": 41,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "STAEL LA LIBERTAD": {
+    "ruta": "Playas",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 36,
+    "mes2Usd": 43,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "STAEL SALINAS": {
+    "ruta": "Playas",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 36,
+    "mes2Usd": 43,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "STAEL SANTA ELENA": {
+    "ruta": "Playas",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 36,
+    "mes2Usd": 43,
+    "tarifaObjetivoUsd": 50,
+    "minPedidoUsd": 500,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "ESME ATACAMES": {
+    "ruta": "Esmeraldas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 33,
+    "mes2Usd": 42,
+    "tarifaObjetivoUsd": 52,
+    "minPedidoUsd": 520,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "ESME LAS PALMAS": {
+    "ruta": "Esmeraldas",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 37,
+    "mes2Usd": 44,
+    "tarifaObjetivoUsd": 52,
+    "minPedidoUsd": 520,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "ESME QUININDE": {
+    "ruta": "Esmeraldas",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 37,
+    "mes2Usd": 44,
+    "tarifaObjetivoUsd": 52,
+    "minPedidoUsd": 520,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PICH LOS BANCOS": {
+    "ruta": "Esmeraldas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 33,
+    "mes2Usd": 42,
+    "tarifaObjetivoUsd": 52,
+    "minPedidoUsd": 520,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PICH PUERTO QUITO": {
+    "ruta": "Esmeraldas",
+    "cobroActualUsd": 23,
+    "mes1Usd": 33,
+    "mes2Usd": 42,
+    "tarifaObjetivoUsd": 52,
+    "minPedidoUsd": 520,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "TSAC LA CONCORDIA": {
+    "ruta": "Esmeraldas",
+    "cobroActualUsd": 28.75,
+    "mes1Usd": 37,
+    "mes2Usd": 44,
+    "tarifaObjetivoUsd": 52,
+    "minPedidoUsd": 520,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "CHIM CUMANDA": {
+    "ruta": "Machala",
+    "cobroActualUsd": 35,
+    "mes1Usd": 41,
+    "mes2Usd": 47,
+    "tarifaObjetivoUsd": 53,
+    "minPedidoUsd": 530,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "ELORO EL GUABO": {
+    "ruta": "Machala",
+    "cobroActualUsd": 40,
+    "mes1Usd": 44,
+    "mes2Usd": 49,
+    "tarifaObjetivoUsd": 53,
+    "minPedidoUsd": 530,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "ELORO HUAQUILLAS": {
+    "ruta": "Machala",
+    "cobroActualUsd": 45,
+    "mes1Usd": 48,
+    "mes2Usd": 50,
+    "tarifaObjetivoUsd": 53,
+    "minPedidoUsd": 530,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "ELORO MACHALA AV. LAS PALMERAS": {
+    "ruta": "Machala",
+    "cobroActualUsd": 40,
+    "mes1Usd": 44,
+    "mes2Usd": 49,
+    "tarifaObjetivoUsd": 53,
+    "minPedidoUsd": 530,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "ELORO MACHALA AV. ROCAFUERTE": {
+    "ruta": "Machala",
+    "cobroActualUsd": 40,
+    "mes1Usd": 44,
+    "mes2Usd": 49,
+    "tarifaObjetivoUsd": 53,
+    "minPedidoUsd": 530,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "ELORO PASAJE": {
+    "ruta": "Machala",
+    "cobroActualUsd": 40,
+    "mes1Usd": 44,
+    "mes2Usd": 49,
+    "tarifaObjetivoUsd": 53,
+    "minPedidoUsd": 530,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "ELORO PIÑAS": {
+    "ruta": "Machala",
+    "cobroActualUsd": 45,
+    "mes1Usd": 48,
+    "mes2Usd": 50,
+    "tarifaObjetivoUsd": 53,
+    "minPedidoUsd": 530,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "ELORO SANTA ROSA": {
+    "ruta": "Machala",
+    "cobroActualUsd": 45,
+    "mes1Usd": 48,
+    "mes2Usd": 50,
+    "tarifaObjetivoUsd": 53,
+    "minPedidoUsd": 530,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "GUAY NARANJAL": {
+    "ruta": "Machala",
+    "cobroActualUsd": 23,
+    "mes1Usd": 33,
+    "mes2Usd": 43,
+    "tarifaObjetivoUsd": 53,
+    "minPedidoUsd": 530,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "NAPO TENA AV 15 DE NOVIEMBRE": {
+    "ruta": "Oriente",
+    "cobroActualUsd": 35,
+    "mes1Usd": 44,
+    "mes2Usd": 52,
+    "tarifaObjetivoUsd": 61,
+    "minPedidoUsd": 610,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "NAPO TENA HOSPITAL JOSE VELASCO": {
+    "ruta": "Oriente",
+    "cobroActualUsd": 35,
+    "mes1Usd": 44,
+    "mes2Usd": 52,
+    "tarifaObjetivoUsd": 61,
+    "minPedidoUsd": 610,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "NAPO TENA PARQUE LINEAL": {
+    "ruta": "Oriente",
+    "cobroActualUsd": 35,
+    "mes1Usd": 44,
+    "mes2Usd": 52,
+    "tarifaObjetivoUsd": 61,
+    "minPedidoUsd": 610,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "OREL EL COCA CALLE NAPO": {
+    "ruta": "Oriente",
+    "cobroActualUsd": 35,
+    "mes1Usd": 44,
+    "mes2Usd": 52,
+    "tarifaObjetivoUsd": 61,
+    "minPedidoUsd": 610,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "OREL EL COCA TERMINAL": {
+    "ruta": "Oriente",
+    "cobroActualUsd": 35,
+    "mes1Usd": 44,
+    "mes2Usd": 52,
+    "tarifaObjetivoUsd": 61,
+    "minPedidoUsd": 610,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "OREL JOYA DE LOS SACHAS": {
+    "ruta": "Oriente",
+    "cobroActualUsd": 35,
+    "mes1Usd": 44,
+    "mes2Usd": 52,
+    "tarifaObjetivoUsd": 61,
+    "minPedidoUsd": 610,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "OREL LORETO": {
+    "ruta": "Oriente",
+    "cobroActualUsd": 35,
+    "mes1Usd": 44,
+    "mes2Usd": 52,
+    "tarifaObjetivoUsd": 61,
+    "minPedidoUsd": 610,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "SUCU LAGO AGRIO AV. VENEZUELA": {
+    "ruta": "Oriente",
+    "cobroActualUsd": 38,
+    "mes1Usd": 46,
+    "mes2Usd": 53,
+    "tarifaObjetivoUsd": 61,
+    "minPedidoUsd": 610,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "SUCU LAGO AGRIO PARQUE RECREACIONAL": {
+    "ruta": "Oriente",
+    "cobroActualUsd": 38,
+    "mes1Usd": 46,
+    "mes2Usd": 53,
+    "tarifaObjetivoUsd": 61,
+    "minPedidoUsd": 610,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "SUCU SHUSHUFINDI": {
+    "ruta": "Oriente",
+    "cobroActualUsd": 38,
+    "mes1Usd": 46,
+    "mes2Usd": 53,
+    "tarifaObjetivoUsd": 61,
+    "minPedidoUsd": 610,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "MORO MACAS": {
+    "ruta": "Macas-Puyo",
+    "cobroActualUsd": 35,
+    "mes1Usd": 39,
+    "mes2Usd": 44,
+    "tarifaObjetivoUsd": 48,
+    "minPedidoUsd": 480,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "MORO SUCUA": {
+    "ruta": "Macas-Puyo",
+    "cobroActualUsd": 35,
+    "mes1Usd": 39,
+    "mes2Usd": 44,
+    "tarifaObjetivoUsd": 48,
+    "minPedidoUsd": 480,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PAST PUYO CENTRO": {
+    "ruta": "Macas-Puyo",
+    "cobroActualUsd": 30,
+    "mes1Usd": 36,
+    "mes2Usd": 42,
+    "tarifaObjetivoUsd": 48,
+    "minPedidoUsd": 480,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PAST PUYO EL OBRERO": {
+    "ruta": "Macas-Puyo",
+    "cobroActualUsd": 30,
+    "mes1Usd": 36,
+    "mes2Usd": 42,
+    "tarifaObjetivoUsd": 48,
+    "minPedidoUsd": 480,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "PAST PUYO PRINCIPAL": {
+    "ruta": "Macas-Puyo",
+    "cobroActualUsd": 30,
+    "mes1Usd": 36,
+    "mes2Usd": 42,
+    "tarifaObjetivoUsd": 48,
+    "minPedidoUsd": 480,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "LOJA AV. 18 DE NOVIEMBRE": {
+    "ruta": "Loja",
+    "cobroActualUsd": 45,
+    "mes1Usd": 57,
+    "mes2Usd": 70,
+    "tarifaObjetivoUsd": 82,
+    "minPedidoUsd": 820,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "LOJA CATAMAYO": {
+    "ruta": "Loja",
+    "cobroActualUsd": 40,
+    "mes1Usd": 54,
+    "mes2Usd": 68,
+    "tarifaObjetivoUsd": 82,
+    "minPedidoUsd": 820,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "LOJA PARQUE BOLIVAR": {
+    "ruta": "Loja",
+    "cobroActualUsd": 40,
+    "mes1Usd": 54,
+    "mes2Usd": 68,
+    "tarifaObjetivoUsd": 82,
+    "minPedidoUsd": 820,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "ZAMR YANTZAZA": {
+    "ruta": "Loja",
+    "cobroActualUsd": 40,
+    "mes1Usd": 54,
+    "mes2Usd": 68,
+    "tarifaObjetivoUsd": 82,
+    "minPedidoUsd": 820,
+    "tipo": "Queso/crema: SÍ"
+  },
+  "ZAMR ZAMORA": {
+    "ruta": "Loja",
+    "cobroActualUsd": 40,
+    "mes1Usd": 54,
+    "mes2Usd": 68,
+    "tarifaObjetivoUsd": 82,
+    "minPedidoUsd": 820,
+    "tipo": "Queso/crema: SÍ"
+  }
+}
